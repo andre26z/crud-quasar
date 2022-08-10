@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Quasar-Crud",
+      "author": "andre",
+      "content": "Todo-list com quasar e Vue3 e API REST"
+    },
+    {
+      "id": 1,
+      "title": "Quasar-Crud",
+      "author": "andre",
+      "content": "Todo-list com quasar e Vue3 e API REST"
+    }
+  ]
+}
