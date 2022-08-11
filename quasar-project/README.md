@@ -1,24 +1,18 @@
-# Quasar App (quasar-project)
+# Crud com Quasar - To-do-list
 
-A Quasar Project
+Depêndecias já baixadas.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+O projeto roda com uma API REST com JSON Server que simula uma database
+Site da database: https://www.fabricadecodigo.com/json-server/
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Para rodar a database primeiro instale com o código: <br>
+<ul>
+  <li> npm install -g json-server
+  <div> Após isso também no terminal digite: <div>
+  <li> json-server --watch db.json
 
+<p> Agora que seu servidor já está rodando, no terminal digite:
+  <li> npx quasar dev
+</ul>
+ 
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
